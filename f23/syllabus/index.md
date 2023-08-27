@@ -10,182 +10,172 @@ has_toc: false
 
 ## Time & Location
 
-Section A: M/W 10:10 am – 11:30 am, TEP 1403
+Section A: MW, 9:30 am - 10:50 am, TEP 1403
 
 ## Contents and Schedule
 
 Student teams will work on their assigned Capstone projects under the supervision of the project advisor and, where applicable, in collaboration with other students/faculty. 
 
-Class sessions are noted on the scheduled dates below. Professor Nyberg is available for office hours during class meeting time in the assigned classroom (TEP 1403). Teams are encouraged to come to class to work on their projects and/or ask questions. 
+Class sessions are noted on the scheduled dates below. Fall plan feedback sessions, weekly standups, and midterm check-ins are to be held in-person during class meeting times.
 
-All deliverables are **bolded**. Students are expected to meet as project teams at least once a week, record, and submit a 5 to 10-minute weekly standup. There are three evaluation milestones, a draft, and final report, and a final presentation.
+All deliverables are **bolded**. There are three evaluation milestones, a draft, and final report, and a final presentation.
 
 All _italicized_ text is for your notice.
 
-<table>
-  <thead>
-    <tr>
-      <th>Date</th>
-      <th>Activity</th>
-      <th><strong>Deliverable Due</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Aug 29</td>
-      <td>Introduction/Overview</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Aug 31</td>
-      <td>
-        Tutorials:
-        <ul>
-            <li>Fall Plan</li>
-            <li>How to do a Standup</li>
-        </ul>
-    </td>
-      <td><strong>Fall Plan Due Sep 4</strong></td>
-    </tr>
-    <tr>
-      <td>Sep 5</td>
-      <td colspan="2" style="text-align: center;">Labor Day (No Class)</td>
-    </tr>
-    <tr>
-      <td>Sep 7</td>
-      <td colspan="2" style="text-align: center;">Fall Plan Feedback</td>
-    </tr>
-    <tr>
-      <td>Sep 12</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Sep 14</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td><strong>Weekly Standup Due Sep 15</strong></td>
-    </tr>
-    <tr>
-      <td>Sep 19</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Sep 21</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td><strong>Weekly Standup Due Sep 22</strong></td>
-    </tr>
-    <tr>
-      <td>Sep 26</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Sep 28</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td><strong>Weekly Standup Due Sep 29</strong></td>
-    </tr>
-    <tr>
-      <td>Oct 3</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Oct 5</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td><strong>Weekly Standup Due Oct 6</strong></td>
-    </tr>
-    <tr>
-      <td>Oct 10</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Oct 12</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td><strong>Weekly Standup Due Oct 13</strong></td>
-    </tr>
-    <tr>
-      <td>Oct 17</td>
-      <td colspan="2" rowspan="2" style="text-align: center;">Fall Break (No Class)</td>
-    </tr>
-    <tr>
-      <td>Oct 19</td>
-    </tr>
-    <tr>
-      <td>Oct 24</td>
-      <td rowspan="2"><strong>Midterm Check-in with Prof. Nyberg (in-person and Zoom)<br>Schedule TBD</strong></td>
-      <td><i>Midterm Grades due to University Oct 24</i></td>
-    </tr>
-    <tr>
-      <td>Oct 26</td>
-      <td><strong>Midterm Inner-team Peer Review due Oct 27</strong></td>
-    </tr>
-    <tr>
-      <td>Oct 31</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Nov 2</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td><strong>Weekly Standup Due Nov 3</strong></td>
-    </tr>
-    <tr>
-      <td>Nov 7</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Nov 9</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td><strong>Weekly Standup Due Nov 10</strong></td>
-    </tr>
-    <tr>
-      <td>Nov 14</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Nov 16</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td><strong>Weekly Standup Due Nov 17<br>Draft Report Due Nov 20</strong></td>
-    </tr>
-    <tr>
-      <td>Nov 21</td>
-      <td rowspan="2" colspan="2" style="text-align: center;">Thanksgiving Break (No Class)</td>
-    </tr>
-    <tr>
-      <td>Nov 23</td>
-    </tr>
-    <tr>
-      <td>Nov 28</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td><i>Draft Report Feedback will be returned by Nov 28</i></td>
-    </tr>
-    <tr>
-      <td>Nov 30</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td><strong>Weekly Standup Due Dec 1</strong></td>
-    </tr>
-    <tr>
-      <td>Dec 5</td>
-      <td>Work with Team and Mentor; Prof. Nyberg Office Hours (in-person, in the classroom during class time)</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Dec 7 - Dec 14</td>
-      <td colspan="2" style="text-align: center;"><strong>MCDS Capstone Final Presentation</strong></td>
-    </tr>
-    <tr>
-      <td>Dec 15</td>
-      <td colspan="2" style="text-align: center;"><strong>Team Peer Review Due<br>Final Report Due<br>Final Inner-team Peer Review Due</strong></td>
-    </tr>
-    <tr>
-      <td>Dec 21</td>
-      <td colspan="2" style="text-align: center;"><i>Final Grades due to University</i></td>
-    </tr>
-  </tbody>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Date</th>
+    <th class="tg-0lax">Activity</th>
+    <th class="tg-0lax">Deliverable Due</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Aug 28</td>
+    <td class="tg-0lax">Welcome Back / Overview </td>
+    <td class="tg-0lax"> </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Aug 30</td>
+    <td class="tg-0lax">Tutorials:<br>Fall Plan<br>How to do a Standup</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Sep 4</td>
+    <td class="tg-0lax" colspan="2">Labor Day (No Class)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Sep 6</td>
+    <td class="tg-0lax">Class meeting - Come for any questions regarding Fall plan</td>
+    <td class="tg-0lax">Fall Plan due Sep 7<br>Weekly stand-up scheduling due Sep 8</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Sep 11</td>
+    <td class="tg-0lax">Fall plan feedback  in class</td>
+    <td class="tg-0lax"> </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Sep 13</td>
+    <td class="tg-0lax">Fall plan feedback  in class</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Sep 18</td>
+    <td class="tg-0lax">Weekly stand-up in class</td>
+    <td class="tg-0lax"> </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Sep 20</td>
+    <td class="tg-0lax">Weekly stand-up in class</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Sep 25</td>
+    <td class="tg-0lax">Weekly stand-up in class</td>
+    <td class="tg-0lax"> </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Sep 27</td>
+    <td class="tg-0lax">Weekly stand-up in class</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Oct 2</td>
+    <td class="tg-0lax">Weekly stand-up in class</td>
+    <td class="tg-0lax"> </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Oct 4</td>
+    <td class="tg-0lax">Weekly stand-up in class</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Oct 9</td>
+    <td class="tg-0lax">Weekly stand-up in class</td>
+    <td class="tg-0lax"> </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Oct 11</td>
+    <td class="tg-0lax">Weekly stand-up in class</td>
+    <td class="tg-0lax">Midterm Check-in Scheduling form due Oct 13</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Oct 16</td>
+    <td class="tg-0lax" colspan="2" rowspan="2">Fall Break (No Class)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Oct 18</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Oct 23</td>
+    <td class="tg-0lax" rowspan="2">Midterm Check-in with Prof. Nyberg in-class<br>Schedule TBD</td>
+    <td class="tg-0lax">Midterm Grades due to University Oct 23</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Oct 25</td>
+    <td class="tg-0lax">Midterm Inner-team Peer Review due Oct 27</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Oct 30</td>
+    <td class="tg-0lax">Weekly stand-up in class</td>
+    <td class="tg-0lax"> </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Nov 1</td>
+    <td class="tg-0lax">Weekly stand-up in class</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Nov 6</td>
+    <td class="tg-0lax">Weekly stand-up in class</td>
+    <td class="tg-0lax"> </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Nov 8</td>
+    <td class="tg-0lax">Weekly stand-up in class</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Nov 13</td>
+    <td class="tg-0lax">Weekly stand-up in class</td>
+    <td class="tg-0lax">Draft Report Due Nov 14</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Nov 15</td>
+    <td class="tg-0lax">Weekly stand-up in class</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Nov 20</td>
+    <td class="tg-0lax" colspan="2" rowspan="2">Thanksgiving Break (No Class)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Nov 22</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Nov 27</td>
+    <td class="tg-0lax">Weekly stand-up in class</td>
+    <td class="tg-0lax">Draft Report Feedback will be returned by Nov 27</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Nov 39</td>
+    <td class="tg-0lax">Weekly stand-up in class</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Dec 4 - Dec 13</td>
+    <td class="tg-0lax" colspan="2">MCDS Capstone Final Presentation (schedule TCD)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Dec 14</td>
+    <td class="tg-0lax" colspan="2">Team Peer Review Due<br>Final Report Due<br>Final Inner-team Peer Review Due</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Dec 20</td>
+    <td class="tg-0lax" colspan="2">Final Grades due to University</td>
+  </tr>
+</tbody>
 </table>
 
 ## Assessment
@@ -219,11 +209,11 @@ The Capstone project is also an exercise in proper software engineering. Your te
 ## Weekly Standups
 A standup is a casual check-in to share your team’s progress update. It is not supposed to be a polished presentation. Simply share your screen and brief us on what has been happening. Be authentic with what your team’s current progress is and what your team is dealing with. Doing so allows us to provide you with timely support if needed.
 
-Each team is required to submit a standup on a weekly basis according to the course schedule. Students submit standups by recording a 5 to 10-minute video.
+Each team is required to conduct a standup on a weekly basis during class time. Students receive real-time feedback from the instructor and TAs.
 
 ## Midterm Check-in
 
-Midterm check-in is a standup-style, in-person (or synchronous via Zoom) meeting with professor Nyberg. The schedule for these meetings will be posted on Piazza.
+Midterm check-in is a standup-style, in-person meeting in class with professor Nyberg.
 
 ## Inner-team Peer Review Assessment
 

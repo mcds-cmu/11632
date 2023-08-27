@@ -7,7 +7,7 @@ nav_order: 5
 # Links
 ## Course links
 
-Canvas (Fall 2022): [https://canvas.cmu.edu/courses/30738](https://canvas.cmu.edu/courses/30738) <br />
+Canvas (Fall 2023): [https://canvas.cmu.edu/courses/36899](https://canvas.cmu.edu/courses/36899) <br />
 Piazza: accessed through Canvas <br />
 Gradescope: accessed through Canvas
 

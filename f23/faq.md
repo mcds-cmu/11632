@@ -1,5 +1,5 @@
 <!-- ---
-layout: f22
+layout: f23
 title: FAQ
 nav_order: 6
 ---

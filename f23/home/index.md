@@ -9,7 +9,7 @@ permalink: f23/index.html
 
 # 11-632: Data Science Capstone
 
-## Fall 2022
+## Fall 2023
 
 ### Course Description
 

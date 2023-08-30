@@ -38,7 +38,7 @@ All _italicized_ text is for your notice.
   </tr>
   <tr>
     <td class="tg-0lax">Aug 30</td>
-    <td class="tg-0lax">Tutorials:<br>Fall Plan<br>How to do a Standup</td>
+    <td class="tg-0lax">Tutorials:<br>Fall Plan</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
@@ -48,7 +48,7 @@ All _italicized_ text is for your notice.
   <tr>
     <td class="tg-0lax">Sep 6</td>
     <td class="tg-0lax">Class meeting - Come for any questions regarding Fall plan</td>
-    <td class="tg-0lax">Fall Plan due Sep 7<br>Weekly stand-up scheduling due Sep 8</td>
+    <td class="tg-0lax">Fall Plan due Sep 7</td>
   </tr>
   <tr>
     <td class="tg-0lax">Sep 11</td>
@@ -93,12 +93,12 @@ All _italicized_ text is for your notice.
   <tr>
     <td class="tg-0lax">Oct 9</td>
     <td class="tg-0lax">Weekly stand-up in class</td>
-    <td class="tg-0lax"> </td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Oct 11</td>
     <td class="tg-0lax">Weekly stand-up in class</td>
-    <td class="tg-0lax">Midterm Check-in Scheduling form due Oct 13</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Oct 16</td>

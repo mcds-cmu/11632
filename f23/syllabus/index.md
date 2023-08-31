@@ -16,11 +16,9 @@ Section A: MW, 9:30 am - 10:50 am, TEP 1403
 
 Student teams will work on their assigned Capstone projects under the supervision of the project advisor and, where applicable, in collaboration with other students/faculty. 
 
-Class sessions are noted on the scheduled dates below. Fall plan feedback sessions, weekly standups, and midterm check-ins are to be held in-person during class meeting times.
+Class sessions are noted on the scheduled dates below. Fall plan feedback sessions, bi-weekly standups and midterm check-ins are to be held in-person during class meeting times.
 
-All deliverables are **bolded**. There are three evaluation milestones, a draft, and final report, and a final presentation.
-
-All _italicized_ text is for your notice.
+There are three evaluation milestones, a draft, and final report, and a final presentation. There are multiple review assignments: bi-weekly standup reviews, midterm inner-team peer review, final inner-team peer review, and final team peer review.
 
 <table class="tg">
 <thead>
@@ -38,7 +36,7 @@ All _italicized_ text is for your notice.
   </tr>
   <tr>
     <td class="tg-0lax">Aug 30</td>
-    <td class="tg-0lax">Tutorials:<br>Fall Plan</td>
+    <td class="tg-0lax">Fall Plan Lecture</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
@@ -165,7 +163,7 @@ All _italicized_ text is for your notice.
   </tr>
   <tr>
     <td class="tg-0lax">Dec 4 - Dec 13</td>
-    <td class="tg-0lax" colspan="2">MCDS Capstone Final Presentation (schedule TCD)</td>
+    <td class="tg-0lax" colspan="2">MCDS Capstone Final Presentation (schedule TBD)</td>
   </tr>
   <tr>
     <td class="tg-0lax">Dec 14</td>
@@ -184,10 +182,12 @@ The grade will consist of an assessment of both the quality of the data science 
 
 The course grade will be based on the following:
 - Fall Plan (required, feedback provided): 0%
-- Weekly standups (start September 15): 10%
-- Midterm check-in: 10%
+- Bi-weekly Standups : 5%
+- Bi-weekly Check-ins : 5%
+- Bi-weekly Standups Peer Review: 5%
+- Midterm Check-in: 10%
 - The draft report is expected to be content-complete, i.e., no missing results, no missing sections, no text with grammatical issues as well as understandable diagrams and proper treatment of related work: 10%
-- Final report is where you work out issues that arise during your final presentation, which will be graded as if it were submitted to a peer-reviewed workshop. **You will also receive reviews from 11-631 students**: 30%
+- Final report is where you work out issues that arise during your final presentation, which will be graded as if it were submitted to a peer-reviewed workshop. **You will also receive reviews from 11-631 students**: 25%
 - Final presentation: 30%
 - Team Peer Review: 5%
 - Midterm Inner-team Peer Review: 2.5%
@@ -206,10 +206,37 @@ The Capstone project is also an exercise in proper software engineering. Your te
 - Any documentation that will be needed on an ongoing basis (e.g., APIs, file formats, etc.) is to be kept in the GitHub repository readme and/or wiki pages.
 - Code quality will be accounted for by the mentor and/or peer review.
 
-## Weekly Standups
+## Bi-weekly Standups
+
 A standup is a casual check-in to share your team’s progress update. It is not supposed to be a polished presentation. Simply share your screen and brief us on what has been happening. Be authentic with what your team’s current progress is and what your team is dealing with. Doing so allows us to provide you with timely support if needed.
 
-Each team is required to conduct a standup on a weekly basis during class time. Students receive real-time feedback from the instructor and TAs.
+Each team is required to conduct a standup on a bi-weekly basis during class time. Students receive real-time feedback from the instructor and TAs.
+
+## Bi-weekly Standups
+
+A standup is a casual check-in to share your team's progress update. It is not supposed to be a polished presentation. Simply share your screen and brief us on what has been happening. Be authentic with what your team's current progress is and what your team is dealing with. Doing so allows us to provide you with timely support if needed.
+
+Each team is required to conduct a standup on a bi-weekly basis during class time. Students receive real-time feedback from the instructor and TAs.
+
+## Bi-weekly TA Check-ins
+
+The bi-weekly check-in with the TA is a structured yet informal session to discuss your team's progress, roadblocks, and future plans. This is an opportunity for a more detailed conversation compared to the standup, allowing your team to receive targeted advice and insights from the TA.
+
+These check-ins are scheduled bi-weekly, outside of regular class time, at a mutually convenient time for both the team and the TA. You are encouraged to prepare a summary of what you've accomplished, where you're stuck, and your next steps, but a polished presentation is unnecessary.
+
+The check-ins aim to facilitate closer guidance, monitor team dynamics, and provide specialized input that may not be covered during the class standups. It also allows the TA to better understand your team's progress and challenges, enabling them to offer more tailored assistance.
+
+Students can expect constructive feedback and practical suggestions from the TA during these meetings, aiming to foster an environment of continual improvement and learning.
+
+## Peer Review of Bi-weekly Standups
+
+The peer review of bi-weekly standups is an exercise in collaborative learning and constructive feedback. This process is designed to help you engage critically with the progress and challenges of another team while gaining an external perspective on your own team's approach.
+
+Each student will be **randomly assigned** to review another team's bi-weekly standup, ensuring an unbiased and equal distribution among all projects. You will be informed of your assigned team via Piazza.
+
+You are expected to watch the standup of the team you're reviewing and prepare brief but insightful feedback on **Persuall**. The grading rubric for the standups is available to you. You can use it as a guide to provide feedback. Giving a score to the report is *optional*; however, the instructor and TAs will give the final score. The idea is to offer suggestions or observations to help the team you're reviewing improve their project or approach to teamwork.
+
+The deadline to submit your review is within 48 hours of the standup to give the reviewed team ample time to incorporate feedback before their next tasks or meetings.
 
 ## Midterm Check-in
 

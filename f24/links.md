@@ -9,7 +9,7 @@ nav_order: 5
 
 Canvas [https://canvas.cmu.edu/](https://canvas.cmu.edu/) <br />
 Piazza: accessed through Canvas <br />
-Gradescope: accessed through Canvas
+Gradescope: accessed through Canvas <br />
 Persuall: accessed through Canvas
 
 ## CMU links

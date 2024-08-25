@@ -12,33 +12,40 @@ has_toc: false
 
 TR, 08:00AM - 09:20AM, TEP 1403
 
-## Contents and Schedule
+## Course Description
 
-Student teams will work on their assigned Capstone projects under the supervision of the project advisor and, where applicable, in collaboration with other students/faculty. 
+The Data Science Capstone and Data Science Capstone Research courses (11-632 and 11-635) are a continuation of the MCDS Capstone course sequence. Students will build upon the foundation laid in the Data Science Capstone Planning course (11-634) as they work towards completing their assigned capstone projects.
 
-Class sessions are noted on the scheduled dates below. Fall plan feedback sessions, bi-weekly standups and midterm check-ins are to be held in-person during class meeting times.
+Upon completing the full MCDS Capstone course sequence (11-634, 11-632, 11-635), students should be able to:
+- Analyze computational data science problems in different application domains and critique solutions to those problems.
+- Design, implement and evaluate a software solution (comprising software system(s) and/or machine learning model(s)) on real world datasets at real world scale.
+- Organize, present, and report on a real-world data science project in collaboration with other researchers/programmers.
 
-There are three evaluation milestones, a draft, and final report, and a final presentation. There are multiple review assignments: bi-weekly standup reviews, midterm peer review, final peer review, and end-of-semester internal evaluation.
+## Course Format
 
-## Assessment
+In-person class sessions are held twice a week, with the scheduled dates available in the [course calendar]({{ site.baseurl }}/f24/schedule/)).
 
-The grade will consist of an assessment of both the quality of the data science experiment, its results, the technical process over the course of the semester as well as your evaluation by your peers.
+Outside of class meetings, student teams will work on their assigned Capstone projects under the supervision of the project advisor and, where applicable, in collaboration with other students/faculty.
 
-The course grade will be based on the following:
-- Fall Plan (required, feedback provided): 0%
-- Participation: 5%
-- Weekly Standups (in-class & with TA) : 10%
-- Bi-weekly Project Associate Feedback on Standups: 5%
-- Midterm Check-in: 5%
-- Midterm Peer Review: 5%
-- The draft report is expected to be content-complete, i.e., no missing results, no missing sections, no text with grammatical issues as well as understandable diagrams and proper treatment of related work: 5%
-- Final report is where you work out issues that arise during your final presentation, which will be graded as if it were submitted to a peer-reviewed workshop. **You will also receive reviews from 11-631 students**: 20%
-- Final presentation: 20%
-- Project Code Repository: 5%
-- End-of-Semester Internal Evaluation: 5%
-- Individual Growth (Updated PLOs & PLOs Reflection): 5%
+## Course Organization
 
-Students are expected to take ownership of the project, take the initiative in driving the development forward and autonomously seek help when getting stuck. If requirements are unclear at any point, please talk to your project mentor or the instructors. For a detailed rubric of how the system, experiment, and results are assessed, you will be directed to the grading criteria document as posted on Canvas during the semester.
+The primary objective of the Data Science Capstone and Data Science Capstone Research courses is to guide you through the completion of a comprehensive data science project, building on the foundation established in the Data Science Capstone Planning course. Throughout these courses, you will deepen your technical expertise, enhance your collaboration skills, and further develop your ability to carry a project from initial planning through to final execution and presentation.
+
+In this course, you will:
+
+- Develop and submit a Fall Plan, outlining your project goals and receiving feedback to guide your progress.
+- Actively participate in class by providing feedback to teams as a Project Associate during weekly standups.
+- Receive bi-weekly feedback from Project Associates to help refine your project direction.
+- Engage in a Midterm Check-in to evaluate your progress and address any challenges.
+- Participate in Midterm Peer Reviews, providing and receiving constructive feedback.
+- Submit a content-complete draft report, ensuring that all sections are well-developed and free of errors.
+- Prepare a Final Report, incorporating feedback from your final presentation, which will be evaluated as if submitted to a peer-reviewed workshop.
+- Deliver a Final Presentation of your project, demonstrating your results and insights.
+- Maintain a Project Code Repository, documenting your technical process and decisions.
+- Conduct an End-of-Semester Internal Evaluation to appraise the overall quality of your project and to evaluate both your own and your teammate’s contributions to the project and each other’s learning.
+- Reflect on your Individual Growth as a data scientist, updating your Personal Learning Objectives (PLOs) and submitting a reflection on your development.
+
+Throughout the course, you are expected to take ownership of your project, proactively seek assistance when needed, and consult with your project mentor or instructors if any requirements are unclear. Detailed grading criteria will be provided on Canvas to guide you through the assessment process.
 
 ## Technical Process Criteria
 
@@ -50,6 +57,28 @@ The Capstone project is also an exercise in proper software engineering. Your te
 - Documentation must include a plan with timelines and milestones. Time and labor estimates for tasks are also a critical part of a project plan.
 - Any documentation that will be needed on an ongoing basis (e.g., APIs, file formats, etc.) is to be kept in the GitHub repository readme and/or wiki pages.
 - Code quality will be accounted for by the mentor and/or peer review.
+
+## Assessment
+
+The grade will consist of an assessment of the quality of the data science experiment, its results, the technical process over the course of the semester, peer evaluations, and your individual growth as a data scientist.
+
+The course grade will be based on the following:
+| Assignment                                                                                                                        | Percentage |
+|------------------------------------------------------------------------------------------------------------------------------------|------------|
+| Fall Plan                                                                                           | 0%         |
+| Participation                                                                                                                      | 5%         |
+| Weekly Standups (in-class & with TA)                                                                                               | 10%        |
+| Bi-weekly Project Associate Feedback on Standups                                                                                   | 5%         |
+| Midterm Check-in                                                                                                                   | 5%         |
+| Midterm Peer Review                                                                                                                | 5%         |
+| Draft Report  | 5%         |
+| Final Report  | 20%        |
+| Final Presentation                                                                                                                 | 20%        |
+| Project Code Repository                                                                                                            | 5%         |
+| End-of-Semester Internal Evaluation                                                                                                | 5%         |
+| Individual Growth (Updated Personal Learning Objectives (PLOs) & PLOs Reflection)                                                                                 | 5%         |
+
+Students are expected to take ownership of the project, take the initiative in driving the development forward and autonomously seek help when getting stuck. If requirements are unclear at any point, please talk to your project mentor or the instructors. For a detailed rubric of how the system, experiment, and results are assessed, you will be directed to the grading criteria document as posted on Canvas during the semester.
 
 <!-- ## Bi-weekly Standups
 
@@ -95,6 +124,51 @@ To facilitate a fair distribution of work among team members, **each midterm** a
 
 Each student is required to attend at least one final presentation of another team and submit a brief review of this team’s presentation. Students will have the chance to submit their preference for the team to review according to their schedule suitability. -->
 
+## Grade Policy
+
+**Individual Grade Adjustments**
+
+In our team-based academic settings, it is recognized that uniform grading may not always reflect individual contributions. Hence, instructors have the discretion to modify a student's grade relative to the team's collective grade. This adjustment is grounded in a thorough evaluation of various factors such as the student's effort, active participation in course work, professionalism, ability to work collaboratively, and demonstration of a growth mindset.
+
+**Grading Methodology**
+
+Our grading process begins with the normalization of scores using statistical techniques to calculate the mean and variance. Individual grades are determined based on the standard deviations from the mean.
+
+**Exceptional Performance Recognition**
+
+We reserve the highest accolade, the 'A+' grade, for students who not only secure top marks but also demonstrate significant research impact. This decision is made collectively by course instructors and mentors, ensuring a fair and comprehensive assessment of each student's academic prowess.
+
+**Regrading Policy**
+
+All grading disputes and regrading requests must be made within 7 days after the grade is released. No requests will be accepted after this deadline.
+
+## Attendance Policy
+
+Attendance is a critical component of the participation score, accounting for 5% of the overall grade. Attendance at all class meetings is mandatory. Our class sessions are specifically designed for lectures, in-class standups, and presentations. Experience from previous cohorts strongly indicates that regular attendance is crucial for both the success of the team and the individual growth of each student. Therefore, each student is expected to attend every session as scheduled.
+
+In recognition of the unpredictable nature of circumstances, each student will be allowed **one** absence per semester. This absence is permissible only for sessions where the student's team is not scheduled to present. It should be noted that interview appointments or similar commitments are not considered valid reasons for additional absences beyond this single allowance.
+
 ## Academic Integrity
 
-For all presentations and the final report, students share work with their teammates. Both presentations and reports need to make clear at all times the students’ contributions and those parts that have been influenced, taken, adapted, or otherwise derived from prior work. Any such additional material must be properly cited in the report and on the presentation slides. This citation material includes related academic writing (even if published by a collaborator of the project), diagrams, datasets, prior Capstone project reports, video tutorials, scientific blog posts, and technical components such as algorithms, libraries, and the like. When a source’s text is paraphrased, it needs to be referenced. If it is reused verbatim, it must be quoted.
+For all team presentations and the final report, it's imperative that students present their work in a manner that distinctly outlines their contributions and differentiates them from existing work. This includes clearly indicating parts of the project that have been influenced by, derived from, or adapted from prior works. It is crucial that these external influences are not only acknowledged but also properly cited in both the report and presentation slides.
+
+Appropriate citation must cover a wide range of materials, including but not limited to:
+
+- Academic writings (including those published by collaborators of the project)
+- Diagrams and visual aids
+- Datasets utilized in the project
+- Reports from previous Capstone projects
+- Video tutorials and scientific blog posts
+- Technical components such as algorithms, software libraries, and similar tools
+- When incorporating these materials into your work, two key principles must be followed:
+
+**Paraphrasing**: When the text from a source is paraphrased (i.e., rewritten in your own words), it is essential to cite the original source to acknowledge its influence on your work.
+
+**Direct Quotation**: If a piece of text is used verbatim (exactly as it appears in the source), it must be placed within quotation marks and accompanied by a specific reference to its origin.
+
+Ensuring the integrity of your work through proper citations is not only a scholarly requirement but also a mark of respect for the intellectual property of others. This practice is central to upholding academic honesty and fostering a culture of responsibility and ethical scholarship in our academic community.
+
+## Assignment Submission Confidentiality and Use for Course Improvement
+
+All assignment submissions for this course will be utilized for course analytics and to enhance future course offerings. These submissions will remain confidential and will not be made publicly available, unless express written consent is provided by the authors of the submitted work.
+

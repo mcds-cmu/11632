@@ -63,6 +63,7 @@ The Capstone project is also an exercise in proper software engineering. Your te
 The grade will consist of an assessment of the quality of the data science experiment, its results, the technical process over the course of the semester, peer evaluations, and your individual growth as a data scientist.
 
 The course grade will be based on the following:
+
 | Assignment                                                                                                                        | Percentage |
 |------------------------------------------------------------------------------------------------------------------------------------|------------|
 | Fall Plan                                                                                           | 0%         |

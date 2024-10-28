@@ -1,10 +1,12 @@
-<!-- ---
+---
 layout: f24
-title: Fall Capstone Final Presentation Information
+title: Fall Capstone Poster Session
 nav_order: 7
---- -->
+---
 
-# Fall Capstone Final Presentation Schedule and Information
+The poster session event will be announced soon!
+
+<!-- # Fall Capstone Final Presentation Schedule and Information
 
 <html>
 <style>
@@ -236,4 +238,4 @@ padding-bottom: 25px;
 </tbody>
 </table>
 </div>
-</div>
+</div> -->

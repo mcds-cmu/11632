@@ -76,7 +76,8 @@ The course grade will be based on the following:
 | Final Report  | 20%        |
 | Final Presentation                                                                                                                 | 20%        |
 | Project Code Repository                                                                                                            | 5%         |
-| End-of-Semester Internal Evaluation                                                                                                | 5%         |
+| Final Presentation Peer Review                                                                                              | 2.5%         |
+| End-of-Semester Internal Evaluation                                                                           | 2.5%         |
 | Individual Growth (Updated Personal Learning Objectives (PLOs) & PLOs Reflection)                                                                                 | 5%         |
 
 Students are expected to take ownership of the project, take the initiative in driving the development forward and autonomously seek help when getting stuck. If requirements are unclear at any point, please talk to your project mentor or the instructors. For a detailed rubric of how the system, experiment, and results are assessed, you will be directed to the grading criteria document as posted on Canvas during the semester.

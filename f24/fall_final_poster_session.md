@@ -40,7 +40,7 @@ padding-bottom: 25px;
     <tbody>
      <tr style="text-align: center;">
       <td>
-       <h2>
+       <h2 style="text-align: center;">
         Diagnolingo
        </h2>
        <img alt="Diagnolingo" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/diagnolingo.png"/>
@@ -52,7 +52,7 @@ padding-bottom: 25px;
        </p>
       </td>
       <td>
-       <h2>
+       <h2 style="text-align: center;">
         Unified Framework for Speaker Verification
        </h2>
        <img alt="Unified framework for speaker verification" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/unified_framework_for_speaker_verification.png"/>
@@ -64,7 +64,7 @@ padding-bottom: 25px;
        </p>
       </td>
       <td>
-       <h2>
+       <h2 style="text-align: center;">
         Cost Model as a Service
        </h2>
        <img alt="Cost Model as a Service" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/cost_model_as_a_service.jpg"/>
@@ -78,7 +78,7 @@ padding-bottom: 25px;
      </tr>
      <tr style="text-align: center;">
       <td>
-       <h2>
+       <h2 style="text-align: center;">
         AI For Healthcare
        </h2>
        <img alt="AI For Healthcare" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/ai_for_healthcare.png"/>
@@ -90,7 +90,7 @@ padding-bottom: 25px;
        </p>
       </td>
       <td>
-       <h2>
+       <h2 style="text-align: center;">
         AIDEN
        </h2>
        <img alt="AIDEN" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/aiden.png"/>
@@ -102,7 +102,7 @@ padding-bottom: 25px;
        </p>
       </td>
       <td>
-       <h2>
+       <h2 style="text-align: center;">
         FogX-Store
        </h2>
        <img alt="FogX-Store" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/fogx-store.png"/>
@@ -116,7 +116,7 @@ padding-bottom: 25px;
      </tr>
      <tr style="text-align: center;">
       <td>
-       <h2>
+       <h2 style="text-align: center;">
         Competition-level Code Generation
        </h2>
        <img alt="Competition-level Code Generation" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/competition-level_code_generation.webp"/>
@@ -128,7 +128,7 @@ padding-bottom: 25px;
        </p>
       </td>
       <td>
-       <h2>
+       <h2 style="text-align: center;">
         Autograding with LLM
        </h2>
        <img alt="Autograding with LLM" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/autograding_with_llm.png"/>
@@ -140,7 +140,7 @@ padding-bottom: 25px;
        </p>
       </td>
       <td>
-       <h2>
+       <h2 style="text-align: center;">
         Automatic Question Generation for Education
        </h2>
        <img alt="Automatic Question Generation for Education" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/automatic_question_generation_for_education.png"/>
@@ -154,7 +154,7 @@ padding-bottom: 25px;
      </tr>
      <tr style="text-align: center;">
       <td>
-       <h2>
+       <h2 style="text-align: center;">
         FAIRMUNI
        </h2>
        <img alt="FAIRMUNI" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/fairmuni.webp"/>
@@ -166,7 +166,7 @@ padding-bottom: 25px;
        </p>
       </td>
       <td>
-       <h2>
+       <h2 style="text-align: center;">
         AI Guide Dog 2024
        </h2>
        <img alt="AI Guide Dog 2024" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/ai_guide_dog_2024.png"/>
@@ -178,7 +178,7 @@ padding-bottom: 25px;
        </p>
       </td>
       <td>
-       <h2>
+       <h2 style="text-align: center;">
         Unified Framework for Speaker Verification
        </h2>
        <img alt="Unified Framework for Speaker Verification" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/unified_framework_for_speaker_verification.png"/>
@@ -192,7 +192,7 @@ padding-bottom: 25px;
      </tr>
      <tr style="text-align: center;">
       <td>
-       <h2>
+       <h2 style="text-align: center;">
         Data Science for Longwall Mining- Komatsu
        </h2>
        <img alt="Data Science for Longwall Mining- Komatsu" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/data_science_for_longwall_mining-_komatsu.png"/>
@@ -204,7 +204,7 @@ padding-bottom: 25px;
        </p>
       </td>
       <td>
-       <h2>
+       <h2 style="text-align: center;">
         Neural IR
        </h2>
        <img alt="Neural IR" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/neural_ir.png"/>
@@ -216,7 +216,7 @@ padding-bottom: 25px;
        </p>
       </td>
       <td>
-       <h2>
+       <h2 style="text-align: center;">
         Semantic Reasoning for Robot Learning
        </h2>
        <img alt="Semantic Reasoning for Robot Learning" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/semantic_reasoning_for_robot_learning.png"/>
@@ -230,7 +230,7 @@ padding-bottom: 25px;
      </tr>
      <tr style="text-align: center;">
       <td>
-       <h2>
+       <h2 style="text-align: center;">
         Analysis of Online Interpersonal Conflict
        </h2>
        <img alt="Analysis of Online Interpersonal Conflict" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/analysis_of_online_interpersonal_conflict.jpg"/>
@@ -242,7 +242,7 @@ padding-bottom: 25px;
        </p>
       </td>
       <td>
-       <h2>
+       <h2 style="text-align: center;">
         Sensemaking Co-pilot
        </h2>
        <img alt="Sensemaking Co-pilot" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/sensemaking_co-pilot.jpg"/>
@@ -254,7 +254,7 @@ padding-bottom: 25px;
        </p>
       </td>
       <td>
-       <h2>
+       <h2 style="text-align: center;">
         Network Telemetry
        </h2>
        <img alt="Network Telemetry" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/network_telemetry.png"/>
@@ -268,7 +268,7 @@ padding-bottom: 25px;
      </tr>
      <tr style="text-align: center;">
       <td>
-       <h2>
+       <h2 style="text-align: center;">
         Scaling the Bandwidth-per-TB wall with Declarative Storage Interfaces
        </h2>
        <img alt="Scaling the Bandwidth-per-TB wall with Declarative Storage Interfaces" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/scaling_the_bandwidth.png"/>
@@ -280,7 +280,7 @@ padding-bottom: 25px;
        </p>
       </td>
       <td>
-       <h2>
+       <h2 style="text-align: center;">
         Optimizing Hybrid Cloud Partition of Data and Compute
        </h2>
        <img alt="Optimizing Hybrid Cloud Partition of Data and Compute" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/optimizing_hybrid_cloud_partition_of_data_and_compute.png"/>
@@ -292,7 +292,7 @@ padding-bottom: 25px;
        </p>
       </td>
       <td>
-       <h2>
+       <h2 style="text-align: center;">
         Efficient LLMs
        </h2>
        <img alt="Efficient LLMs" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/efficient_llms.png"/>
@@ -306,7 +306,7 @@ padding-bottom: 25px;
      </tr>
      <tr style="text-align: center;">
       <td>
-       <h2>
+       <h2 style="text-align: center;">
         ACAI Cloud-Edge Emulator
        </h2>
        <img alt="ACAI Cloud-Edge Emulator" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/acai_cloud-edge_emulator.png"/>
@@ -318,7 +318,7 @@ padding-bottom: 25px;
        </p>
       </td>
       <td>
-       <h2>
+       <h2 style="text-align: center;">
         Leveraging AR to Train Robots
        </h2>
        <img alt="Leveraging AR to Train Robots" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/leveraging_ar_to_train_robots.png"/>
@@ -330,7 +330,7 @@ padding-bottom: 25px;
        </p>
       </td>
       <td>
-       <h2>
+       <h2 style="text-align: center;">
         Pytorch for LLM Analysis
        </h2>
        <img alt="Pytorch for LLM Analysis" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/pytorch_for_llm_analysis.png"/>
@@ -344,7 +344,7 @@ padding-bottom: 25px;
      </tr>
      <tr style="text-align: center;">
       <td>
-       <h2>
+       <h2 style="text-align: center;">
         ML and Formal Mathematics: What's in a Name?
        </h2>
        <img alt="ML and Formal Mathematics: What's in a Name?" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/math.jpg"/>
@@ -353,6 +353,20 @@ padding-bottom: 25px;
        </p>
        <p>
         Interactive theorem provers allow users to state and prove theorems in a formal way. We investigate how much information of a theorem is contained in the theorem's name and compare this across two ITPs: LEAN and Isabelle.
+       </p>
+      </td>
+     </tr>
+      <tr style="text-align: center;">
+      <td>
+       <h2 style="text-align: center;">
+        AI Curators
+       </h2>
+       <img alt="AI Curators" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/ai-curator.png"/>
+       <p>
+        Yifan Wang, Jessica Yin, Jasmine Wan, Alan Wang
+       </p>
+       <p>
+        IWe democratize access to personalized art education through digitized museums & AI-driven features to make visual art appreciation easier to consume and more engaging.
        </p>
       </td>
      </tr>

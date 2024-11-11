@@ -343,33 +343,27 @@ padding-bottom: 25px;
       </td>
      </tr>
      <tr style="text-align: center;">
-      <td>
-       <h2 style="text-align: center;">
-        ML and Formal Mathematics: What's in a Name?
-       </h2>
-       <img alt="ML and Formal Mathematics: What's in a Name?" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/math.jpg"/>
-       <p>
-        Wil Cocke
-       </p>
-       <p>
-        Interactive theorem provers allow users to state and prove theorems in a formal way. We investigate how much information of a theorem is contained in the theorem's name and compare this across two ITPs: LEAN and Isabelle.
-       </p>
-      </td>
-     </tr>
-      <tr style="text-align: center;">
-      <td>
-       <h2 style="text-align: center;">
-        AI Curators
-       </h2>
-       <img alt="AI Curators" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/ai-curator.png"/>
-       <p>
-        Yifan Wang, Jessica Yin, Jasmine Wan, Alan Wang
-       </p>
-       <p>
-        IWe democratize access to personalized art education through digitized museums & AI-driven features to make visual art appreciation easier to consume and more engaging.
-       </p>
-      </td>
-     </tr>
+  <td>
+    <h2 style="text-align: center;">
+      AI Curators
+    </h2>
+    <img alt="AI Curators" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/ai-curator.png"/>
+    <p>Yifan Wang, Jessica Yin, Jasmine Wan, Alan Wang</p>
+    <p>
+      We democratize access to personalized art education through digitized museums & AI-driven features to make visual art appreciation easier to consume and more engaging.
+    </p>
+  </td>
+  <td>
+    <h2 style="text-align: center;">
+      ML and Formal Mathematics: What's in a Name?
+    </h2>
+    <img alt="ML and Formal Mathematics: What's in a Name?" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/math.jpg"/>
+    <p>Wil Cocke</p>
+    <p>
+      Interactive theorem provers allow users to state and prove theorems in a formal way. We investigate how much information of a theorem is contained in the theorem's name and compare this across two ITPs: LEAN and Isabelle.
+    </p>
+  </td>
+</tr>
     </tbody>
    </table>
   </div>

@@ -43,7 +43,7 @@ padding-bottom: 25px;
        <h2>
         Diagnolingo
        </h2>
-       <img alt="Diagnolingo" src="https://github.com/mcds-cmu/11632/blob/main/assets/images/diagnolingo.png"/>
+       <img alt="Diagnolingo" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/diagnolingo.png"/>
        <p>
         Kushagra Agarwal
        </p>
@@ -55,7 +55,7 @@ padding-bottom: 25px;
        <h2>
         Unified Framework for Speaker Verification
        </h2>
-       <img alt="Unified framework for speaker verification" src="https://github.com/mcds-cmu/11632/blob/main/assets/images/unified_framework_for_speaker_verification.png"/>
+       <img alt="Unified framework for speaker verification" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/unified_framework_for_speaker_verification.png"/>
        <p>
         Aryan Singhal, Moukhik Mishra
        </p>
@@ -67,7 +67,7 @@ padding-bottom: 25px;
        <h2>
         Cost Model as a Service
        </h2>
-       <img alt="Cost Model as a Service" src="https://github.com/mcds-cmu/11632/blob/main/assets/images/cost_model_as_a_service.jpg"/>
+       <img alt="Cost Model as a Service" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/cost_model_as_a_service.jpg"/>
        <p>
         Yuanxin Cao, Lan Lou, Kunle Li
        </p>
@@ -81,7 +81,7 @@ padding-bottom: 25px;
        <h2>
         AI For Healthcare
        </h2>
-       <img alt="AI For Healthcare" src="https://github.com/mcds-cmu/11632/blob/main/assets/images/ai_for_healthcare.png"/>
+       <img alt="AI For Healthcare" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/ai_for_healthcare.png"/>
        <p>
         Archana Prakash, Lakshay Arora, Yitian Xu
        </p>
@@ -93,7 +93,7 @@ padding-bottom: 25px;
        <h2>
         AIDEN
        </h2>
-       <img alt="AIDEN" src="https://github.com/mcds-cmu/11632/blob/main/assets/images/aiden.png"/>
+       <img alt="AIDEN" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/aiden.png"/>
        <p>
         Zhong Zheng, Zengliang Zhu, Eileen Huang
        </p>
@@ -105,7 +105,7 @@ padding-bottom: 25px;
        <h2>
         FogX-Store
        </h2>
-       <img alt="FogX-Store" src="https://github.com/mcds-cmu/11632/blob/main/assets/images/fogx-store.png"/>
+       <img alt="FogX-Store" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/fogx-store.png"/>
        <p>
         J-How Huang, Haowei Chung, Xinru Li
        </p>
@@ -119,7 +119,7 @@ padding-bottom: 25px;
        <h2>
         Competition-level Code Generation
        </h2>
-       <img alt="Competition-level Code Generation" src="https://github.com/mcds-cmu/11632/blob/main/assets/images/competition-level_code_generation.webp"/>
+       <img alt="Competition-level Code Generation" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/competition-level_code_generation.webp"/>
        <p>
         Kath Choi
        </p>
@@ -131,7 +131,7 @@ padding-bottom: 25px;
        <h2>
         Autograding with LLM
        </h2>
-       <img alt="Autograding with LLM" src="https://github.com/mcds-cmu/11632/blob/main/assets/images/autograding_with_llm.png"/>
+       <img alt="Autograding with LLM" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/autograding_with_llm.png"/>
        <p>
         Joong Ho (Joshua) Choi, Ankit Shibusam
        </p>
@@ -143,7 +143,7 @@ padding-bottom: 25px;
        <h2>
         Automatic Question Generation for Education
        </h2>
-       <img alt="Automatic Question Generation for Education" src="https://github.com/mcds-cmu/11632/blob/main/assets/images/automatic_question_generation_for_education.png"/>
+       <img alt="Automatic Question Generation for Education" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/automatic_question_generation_for_education.png"/>
        <p>
         Vanessa Colon, Po-Chun Chen, Narendran Saravanan
        </p>
@@ -157,7 +157,7 @@ padding-bottom: 25px;
        <h2>
         FAIRMUNI
        </h2>
-       <img alt="FAIRMUNI" src="https://github.com/mcds-cmu/11632/blob/main/assets/images/fairmuni.webp"/>
+       <img alt="FAIRMUNI" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/fairmuni.webp"/>
        <p>
         Brian Curtin, Aditi Patil, Jiayang Zhao, Mingxin Li
        </p>
@@ -169,7 +169,7 @@ padding-bottom: 25px;
        <h2>
         AI Guide Dog 2024
        </h2>
-       <img alt="AI Guide Dog 2024" src="https://github.com/mcds-cmu/11632/blob/main/assets/images/ai_guide_dog_2024.png"/>
+       <img alt="AI Guide Dog 2024" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/ai_guide_dog_2024.png"/>
        <p>
         Prachiti Garge, Yutong Luo, Tirth Jain
        </p>
@@ -181,7 +181,7 @@ padding-bottom: 25px;
        <h2>
         Unified Framework for Speaker Verification
        </h2>
-       <img alt="Unified Framework for Speaker Verification" src="https://github.com/mcds-cmu/11632/blob/main/assets/images/unified_framework_for_speaker_verification.png"/>
+       <img alt="Unified Framework for Speaker Verification" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/unified_framework_for_speaker_verification.png"/>
        <p>
         Aryan Singhal; Moukhik Misra
        </p>
@@ -195,7 +195,7 @@ padding-bottom: 25px;
        <h2>
         Data Science for Longwall Mining- Komatsu
        </h2>
-       <img alt="Data Science for Longwall Mining- Komatsu" src="https://github.com/mcds-cmu/11632/blob/main/assets/images/data_science_for_longwall_mining-_komatsu.png"/>
+       <img alt="Data Science for Longwall Mining- Komatsu" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/data_science_for_longwall_mining-_komatsu.png"/>
        <p>
         Letian Ye, Haojun Liu, Priyanga Durairaj, Alan Wang
        </p>
@@ -207,7 +207,7 @@ padding-bottom: 25px;
        <h2>
         Neural IR
        </h2>
-       <img alt="Neural IR" src="https://github.com/mcds-cmu/11632/blob/main/assets/images/neural_ir.png"/>
+       <img alt="Neural IR" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/neural_ir.png"/>
        <p>
         Yang Chen, Nipun Katyal, Gerardo Pastrana, Jyoshna Sarva
        </p>
@@ -219,7 +219,7 @@ padding-bottom: 25px;
        <h2>
         Semantic Reasoning for Robot Learning
        </h2>
-       <img alt="Semantic Reasoning for Robot Learning" src="https://github.com/mcds-cmu/11632/blob/main/assets/images/semantic_reasoning_for_robot_learning.png"/>
+       <img alt="Semantic Reasoning for Robot Learning" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/semantic_reasoning_for_robot_learning.png"/>
        <p>
         Emily Guo, Shengnan Liang, Zian Pan, Chengyu Chung, Tsung-Yu Chen
        </p>
@@ -233,7 +233,7 @@ padding-bottom: 25px;
        <h2>
         Analysis of Online Interpersonal Conflict
        </h2>
-       <img alt="Analysis of Online Interpersonal Conflict" src="https://github.com/mcds-cmu/11632/blob/main/assets/images/analysis_of_online_interpersonal_conflict.jpg"/>
+       <img alt="Analysis of Online Interpersonal Conflict" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/analysis_of_online_interpersonal_conflict.jpg"/>
        <p>
         Wenjie Liu, Ruby Wu, Yuan Xu
        </p>
@@ -245,7 +245,7 @@ padding-bottom: 25px;
        <h2>
         Sensemaking Co-pilot
        </h2>
-       <img alt="Sensemaking Co-pilot" src="https://github.com/mcds-cmu/11632/blob/main/assets/images/sensemaking_co-pilot.jpg"/>
+       <img alt="Sensemaking Co-pilot" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/sensemaking_co-pilot.jpg"/>
        <p>
         Jaydev Jangiti, Nivedhitha Dhanasekaran, Melissa Xu, Natasha Joseph
        </p>
@@ -257,7 +257,7 @@ padding-bottom: 25px;
        <h2>
         Network Telemetry
        </h2>
-       <img alt="Network Telemetry" src="https://github.com/mcds-cmu/11632/blob/main/assets/images/network_telemetry.png"/>
+       <img alt="Network Telemetry" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/network_telemetry.png"/>
        <p>
         Varun Maddipati, Parth Sangani
        </p>
@@ -271,7 +271,7 @@ padding-bottom: 25px;
        <h2>
         Scaling the Bandwidth-per-TB wall with Declarative Storage Interfaces
        </h2>
-       <img alt="Scaling the Bandwidth-per-TB wall with Declarative Storage Interfaces" src="https://github.com/mcds-cmu/11632/blob/main/assets/images/scaling_the_bandwidth.png"/>
+       <img alt="Scaling the Bandwidth-per-TB wall with Declarative Storage Interfaces" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/scaling_the_bandwidth.png"/>
        <p>
         Sriya Ravi, Suhas Thalanki, Yu Liu
        </p>
@@ -283,7 +283,7 @@ padding-bottom: 25px;
        <h2>
         Optimizing Hybrid Cloud Partition of Data and Compute
        </h2>
-       <img alt="Optimizing Hybrid Cloud Partition of Data and Compute" src="https://github.com/mcds-cmu/11632/blob/main/assets/images/optimizing_hybrid_cloud_partition_of_data_and_compute.png"/>
+       <img alt="Optimizing Hybrid Cloud Partition of Data and Compute" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/optimizing_hybrid_cloud_partition_of_data_and_compute.png"/>
        <p>
         Po-Yi Liu, Tengda Wang, Yu-Kai Wang
        </p>
@@ -295,7 +295,7 @@ padding-bottom: 25px;
        <h2>
         Efficient LLMs
        </h2>
-       <img alt="Efficient LLMs" src="https://github.com/mcds-cmu/11632/blob/main/assets/images/efficient_llms.png"/>
+       <img alt="Efficient LLMs" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/efficient_llms.png"/>
        <p>
         Vibha Masti, Xinyue Liu
        </p>
@@ -309,7 +309,7 @@ padding-bottom: 25px;
        <h2>
         ACAI Cloud-Edge Emulator
        </h2>
-       <img alt="ACAI Cloud-Edge Emulator" src="https://github.com/mcds-cmu/11632/blob/main/assets/images/acai_cloud-edge_emulator.png"/>
+       <img alt="ACAI Cloud-Edge Emulator" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/acai_cloud-edge_emulator.png"/>
        <p>
         Xiangyu Bao, Xuye He
        </p>
@@ -321,7 +321,7 @@ padding-bottom: 25px;
        <h2>
         Leveraging AR to Train Robots
        </h2>
-       <img alt="Leveraging AR to Train Robots" src="https://github.com/mcds-cmu/11632/blob/main/assets/images/leveraging_ar_to_train_robots.png"/>
+       <img alt="Leveraging AR to Train Robots" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/leveraging_ar_to_train_robots.png"/>
        <p>
         Yi-Che Huang, Yung-Wen Huang, Tianyi Cheng
        </p>
@@ -333,7 +333,7 @@ padding-bottom: 25px;
        <h2>
         Pytorch for LLM Analysis
        </h2>
-       <img alt="Pytorch for LLM Analysis" src="https://github.com/mcds-cmu/11632/blob/main/assets/images/pytorch_for_llm_analysis.png"/>
+       <img alt="Pytorch for LLM Analysis" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/pytorch_for_llm_analysis.png"/>
        <p>
         Aakriti Kinra, Xinran Wan, Qingyang Liu, Mihir Bansal, Rohan Modi
        </p>
@@ -347,7 +347,7 @@ padding-bottom: 25px;
        <h2>
         ML and Formal Mathematics: What's in a Name?
        </h2>
-       <img alt="ML and Formal Mathematics: What's in a Name?" src="https://github.com/mcds-cmu/11632/blob/main/assets/images/math.jpg"/>
+       <img alt="ML and Formal Mathematics: What's in a Name?" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/math.jpg"/>
        <p>
         Wil Cocke
        </p>

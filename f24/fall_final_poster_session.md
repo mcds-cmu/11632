@@ -179,14 +179,14 @@ padding-bottom: 25px;
       </td>
       <td>
        <h2 style="text-align: center;">
-        Unified Framework for Speaker Verification
+        MACARON: Multi-cloud region Aware Cache Auto-configuRatiON
        </h2>
-       <img alt="Unified Framework for Speaker Verification" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/unified_framework_for_speaker_verification.png"/>
+       <img alt="MACARON: Multi-cloud region Aware Cache Auto-configuRatiON" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/MACARON.png"/>
        <p>
-        Aryan Singhal; Moukhik Misra
+        Fulun Ma
        </p>
        <p>
-        Our project is a highly scalable voice authentication platform engineered for robust speaker verification, leveraging SOTA speaker embedding models. It incorporates modular components for embedding extraction and identity matching.
+        Our project enhances the MACARON framework for multi-cloud computing by integrating a write-back cache policy and a dynamic decay factor to reduce data egress costs and improve scalability. This approach lowers operational costs and boosts application performance, especially for high-write workloads. Extensive testing shows significant advancements in cache management and cost-efficiency in multi-cloud environments.
        </p>
       </td>
      </tr>

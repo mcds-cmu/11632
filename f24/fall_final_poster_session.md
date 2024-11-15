@@ -5,7 +5,7 @@ nav_order: 7
 ---
 
 
-<h3>Joining Us? RSVP <a href="https://docs.google.com/forms/d/e/1FAIpQLSc78IgRUaMr0ZgnRV-FBHJiGVWclcEe_9p6O_pfb3aTrOVziw/viewform?usp=sf_link">HERE</a></h3>
+<h3>Joining Us? RSVP&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLSc78IgRUaMr0ZgnRV-FBHJiGVWclcEe_9p6O_pfb3aTrOVziw/viewform?usp=sf_link">HERE</a></h3>
 
 <html>
  <style>

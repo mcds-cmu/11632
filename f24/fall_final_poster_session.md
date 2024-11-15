@@ -5,7 +5,7 @@ nav_order: 7
 ---
 
 
-### Joining Us? RSVP [HERE](https://docs.google.com/forms/d/e/1FAIpQLSc78IgRUaMr0ZgnRV-FBHJiGVWclcEe_9p6O_pfb3aTrOVziw/viewform?usp=sf_link)
+### Joining Us? RSVP  [HERE](https://docs.google.com/forms/d/e/1FAIpQLSc78IgRUaMr0ZgnRV-FBHJiGVWclcEe_9p6O_pfb3aTrOVziw/viewform?usp=sf_link)
 
 <html>
  <style>

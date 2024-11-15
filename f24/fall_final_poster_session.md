@@ -1,4 +1,4 @@
----
+Falan---
 layout: f24
 title: Fall Capstone Poster Session
 nav_order: 7
@@ -348,7 +348,7 @@ padding-bottom: 25px;
       AI Curators
     </h2>
     <img alt="AI Curators" src="https://raw.githubusercontent.com/mcds-cmu/11632/refs/heads/main/assets/images/ai-curator.png"/>
-    <p>Yifan Wang, Jessica Yin, Jasmine Wan, Alan Wang</p>
+    <p>Yifan Wang, Jessica Yin, Jasmine Wan, Alan Zhang</p>
     <p>
       We democratize access to personalized art education through digitized museums & AI-driven features to make visual art appreciation easier to consume and more engaging.
     </p>

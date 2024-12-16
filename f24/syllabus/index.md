@@ -69,16 +69,14 @@ The course grade will be based on the following:
 | Fall Plan                                                                                           | 0%         |
 | Participation                                                                                                                      | 5%         |
 | Weekly Standups (in-class & with TA)                                                                                               | 10%        |
-| Bi-weekly Project Associate Feedback on Standups                                                                                   | 5%         |
+| Bi-weekly Project Associate Feedback on Standups                                                                                   | 10%         |
 | Midterm Check-in                                                                                                                   | 5%         |
-| Midterm Peer Review                                                                                                                | 5%         |
-| Draft Report  | 5%         |
+| Draft Report  | 10%         |
 | Final Report  | 20%        |
-| Final Presentation                                                                                                                 | 20%        |
+| Poster Presentation                                                                                                                 | 20%        |
 | Project Code Repository                                                                                                            | 5%         |
-| Final Presentation Peer Review                                                                                              | 2.5%         |
-| End-of-Semester Internal Evaluation                                                                           | 2.5%         |
-| Individual Growth (Updated Personal Learning Objectives (PLOs) & PLOs Reflection)                                                                                 | 5%         |
+| Poster Peer Review                                                                                              | 5%         |
+| Individual Growth (Updated Personal Learning Objectives (PLOs) & PLOs Reflection)                                                                                 | 10%         |
 
 Students are expected to take ownership of the project, take the initiative in driving the development forward and autonomously seek help when getting stuck. If requirements are unclear at any point, please talk to your project mentor or the instructors. For a detailed rubric of how the system, experiment, and results are assessed, you will be directed to the grading criteria document as posted on Canvas during the semester.
 

@@ -79,7 +79,7 @@ Students are expected to take ownership of the project, take the initiative in d
 
 ## Weekly Standups
 
-Starting week 3, each week, your team will deliver a 5 to 10-minute presentation summarizing your project’s progress from the past week. The presentation must use the quad chart template provided on Canvas and should focus on detailed progress updates rather than an extended introduction. The aim is to clearly communicate your work and facilitate productive discussions.
+Starting week 4, each week, your team will deliver a 5 to 10-minute presentation summarizing your project’s progress from the past week. The presentation must use the quad chart template provided on Canvas and should focus on detailed progress updates rather than an extended introduction. The aim is to clearly communicate your work and facilitate productive discussions.
 
 To accommodate the large number of teams, these standups will alternate biweekly between meetings with the instructor and meetings with a designated TA. These meetings will not occur during regular class times:
 

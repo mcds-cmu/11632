@@ -34,13 +34,10 @@ The primary objective of the Data Science Capstone and Data Science Capstone Res
 In this course, you will:
 
 - Develop and submit a Fall Plan, outlining your project goals and receiving feedback to guide your progress.
-- Actively participate in class by providing feedback to teams as a Project Associate during weekly standups.
-- Receive bi-weekly feedback from Project Associates to help refine your project direction.
-- Engage in a Midterm Check-in to evaluate your progress and address any challenges.
-- Participate in Midterm Peer Reviews, providing and receiving constructive feedback.
+- Engage actively in class through one-on-one standup meetings with instructors and TAs.
 - Submit a content-complete draft report, ensuring that all sections are well-developed and free of errors.
 - Prepare a Final Report, incorporating feedback from your final presentation, which will be evaluated as if submitted to a peer-reviewed workshop.
-- Deliver a Final Presentation of your project, demonstrating your results and insights.
+- Deliver a Final Poster Presentation of your project, demonstrating your results and insights.
 - Maintain a Project Code Repository, documenting your technical process and decisions.
 - Conduct an End-of-Semester Internal Evaluation to appraise the overall quality of your project and to evaluate both your own and your teammate’s contributions to the project and each other’s learning.
 - Reflect on your Individual Growth as a data scientist, updating your Personal Learning Objectives (PLOs) and submitting a reflection on your development.

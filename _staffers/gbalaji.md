@@ -7,4 +7,4 @@ photo: staff/gbalaji.jpg
 website: https://www.linkedin.com/in/gokulapriyan-balaji/
 staff_for: [f25]
 ---
-COE - ECE
+COE - MSECE

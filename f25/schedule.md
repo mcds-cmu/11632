@@ -13,7 +13,7 @@ nav_order: 3
 
 <iframe
     id="class-schedule-iframe"
-    src="https://calendar.google.com/calendar/embed?src=c_b5a50beb731e0b56a9847995b78a622da92442b40b1b03f573f9ea2277adc2a6%40group.calendar.google.com&ctz=America%2FNew_York"
+    src="https://calendar.google.com/calendar/embed?src=c_bd26e5f5b01b5958fd91c127e1be4d376c00f66942628c5c782e3dede74c9849%40group.calendar.google.com&ctz=America%2FNew_York"
     frameborder="0"
     scrolling="no">
 </iframe>

@@ -1,8 +1,8 @@
----
+<!-- ---
 layout: f25
 title: Fall Capstone Poster Session
 nav_order: 7
----
+--- -->
 
 <html>
  <style>

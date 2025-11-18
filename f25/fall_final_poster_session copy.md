@@ -1,8 +1,8 @@
----
+<!-- ---
 layout: f25
 title: Fall Capstone Poster Session
 nav_order: 7
----
+--- -->
 
 <html>
  <style>
@@ -25,7 +25,7 @@ nav_order: 7
     margin-right: auto;
   }
   p {
-    text-align: center; 
+    text-align: center;
   }
   h2 {
     vertical-align: top;
@@ -35,6 +35,7 @@ nav_order: 7
   }
  </style>
 
+<!-- ANNOUNCEMENT -->
 <div style="text-align:center; padding: 25px; font-size: 26px; font-weight: bold; color: #7a003c; line-height: 1.4;">
   ⭐ Join us!! December 3, 2025 · GHC 4400 / 4300 · 12 pm–4 pm<br>
   Language Technologies Institute<br>
@@ -42,82 +43,213 @@ nav_order: 7
   Capstone Project Showcase
 </div>
 
-<!-- TAG LEGEND WITH CLICKABLE DROPDOWNS -->
+<!-- TAG LEGEND -->
 <div style="text-align:center; padding: 20px; font-size: 24px; font-weight: bold;">
   Project Tags (Click to Expand)
 </div>
 
 <style>
   .tag-box {
-    padding:6px 14px;
-    border:1px solid #7a003c;
-    border-radius:6px;
-    font-size:14px;
-    cursor:pointer;
-    display:inline-block;
-    margin:6px;
-    background:#faf6f8;
+    padding: 6px 14px;
+    border: 1px solid #7a003c;
+    border-radius: 6px;
+    font-size: 14px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 6px;
+    background: #faf6f8;
   }
-
   .dropdown-list {
-    display:none;
-    margin-top:6px;
-    padding:10px;
-    border:1px solid #ddd;
-    background:#fff;
-    border-radius:6px;
-    text-align:left;
+    display: none;
+    margin-top: 6px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background: #fff;
+    border-radius: 6px;
+    text-align: left;
   }
-
   .dropdown-list p {
-    margin:4px 0;
-    font-size:14px;
+    margin: 4px 0;
+    font-size: 14px;
+  }
+  .dropdown-list a {
+    text-decoration: none;
+    color: #7a003c;
   }
 </style>
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px;">
 
-  <!-- TAG 1 -->
+  <!-- TAG 1: LLMs -->
   <div>
     <div class="tag-box" onclick="toggleDropdown('tag-llm')">
       Large Language Models (LLMs)
     </div>
     <div id="tag-llm" class="dropdown-list">
-      <p>AIDEN</p>
-      <p>Agent4Molecule</p>
-      <p>DATE-LM</p>
-      <p>Secure Code Generation</p>
-      <p>ARC-AGI-2</p>
-      <!-- add more -->
+      <p><a href="#aiden">AIDEN</a></p>
+      <p><a href="#agent4molecule">Agent4Molecule</a></p>
+      <p><a href="#date-lm">DATE-LM</a></p>
+      <p><a href="#secure-code-generation">Secure Code Generation</a></p>
+      <p><a href="#arc-agi-2">ARC-AGI-2</a></p>
+      <p><a href="#less-llm-more-documents">Less LLM, More Documents</a></p>
+      <p><a href="#nl2sql">NL2SQL</a></p>
     </div>
   </div>
 
-  <!-- TAG 2 -->
+  <!-- TAG 2: RAG -->
   <div>
     <div class="tag-box" onclick="toggleDropdown('tag-rag')">
       Retrieval-Augmented Generation (RAG)
     </div>
     <div id="tag-rag" class="dropdown-list">
-      <p>AIDEN</p>
-      <p>RAG Arena</p>
-      <p>CyberLife AI</p>
-      <p>Less LLM, More Documents</p>
+      <p><a href="#aiden">AIDEN</a></p>
+      <p><a href="#rag-evaluation">RAG Arena</a></p>
+      <p><a href="#cyberlife-ai">CyberLife AI</a></p>
+      <p><a href="#less-llm-more-documents">Less LLM, More Documents</a></p>
     </div>
   </div>
 
-  <!-- TAG 3 -->
+  <!-- TAG 3: Multi-Agent -->
   <div>
-    <div class="tag-box" onclick="toggleDropdown('tag-mas')">
+    <div class="tag-box" onclick="toggleDropdown('tag-multiagent')">
       Multi-Agent Systems
     </div>
-    <div id="tag-mas" class="dropdown-list">
-      <p>NL2SQL Multi-Agent</p>
-      <p>Sotopia-ToM</p>
-      <p>Code Migration Multi-Agent</p>
+    <div id="tag-multiagent" class="dropdown-list">
+      <p><a href="#nl2sql">NL2SQL Multi-Agent</a></p>
+      <p><a href="#sotopia-tom">Sotopia-ToM</a></p>
+      <p><a href="#code-migration">Code Migration Multi-Agent</a></p>
     </div>
   </div>
 
-  <!-- KEEP ADDING TAGS LIKE THIS -->
+  <!-- TAG 4: Vision & Robotics -->
+  <div>
+    <div class="tag-box" onclick="toggleDropdown('tag-vision')">
+      Vision & Robotics
+    </div>
+    <div id="tag-vision" class="dropdown-list">
+      <p><a href="#waybuddy">WayBuddy</a></p>
+      <p><a href="#vln">Interactive VLN</a></p>
+      <p><a href="#porosity-pfib">3D pFIB-SEM Reconstruction</a></p>
+    </div>
+  </div>
+
+  <!-- TAG 5: AI for Science -->
+  <div>
+    <div class="tag-box" onclick="toggleDropdown('tag-ai-science')">
+      AI for Science
+    </div>
+    <div id="tag-ai-science" class="dropdown-list">
+      <p><a href="#agent4molecule">Agent4Molecule</a></p>
+      <p><a href="#porosity-pfib">Fuel Cell pFIB-SEM</a></p>
+      <p><a href="#hab-detection">HAB Detection</a></p>
+    </div>
+  </div>
+
+  <!-- TAG 6: Data Quality & Attribution -->
+  <div>
+    <div class="tag-box" onclick="toggleDropdown('tag-data-quality')">
+      Data Quality & Attribution
+    </div>
+    <div id="tag-data-quality" class="dropdown-list">
+      <p><a href="#date-lm">DATE-LM</a></p>
+    </div>
+  </div>
+
+  <!-- TAG 7: SQL & Databases -->
+  <div>
+    <div class="tag-box" onclick="toggleDropdown('tag-sql')">
+      Databases & SQL
+    </div>
+    <div id="tag-sql" class="dropdown-list">
+      <p><a href="#pg-hint">pg hint engine</a></p>
+      <p><a href="#nl2sql">NL2SQL</a></p>
+    </div>
+  </div>
+
+  <!-- TAG 8: Cloud & Infrastructure -->
+  <div>
+    <div class="tag-box" onclick="toggleDropdown('tag-cloud')">
+      Cloud Infrastructure
+    </div>
+    <div id="tag-cloud" class="dropdown-list">
+      <p><a href="#moirai">Moirai Hybrid Cloud</a></p>
+    </div>
+  </div>
+
+  <!-- TAG 9: Financial Modeling -->
+  <div>
+    <div class="tag-box" onclick="toggleDropdown('tag-finance')">
+      Financial Modeling
+    </div>
+    <div id="tag-finance" class="dropdown-list">
+      <p><a href="#fairmuni">FAIRMUNI-2</a></p>
+    </div>
+  </div>
+
+  <!-- TAG 10: GPU & Optimization -->
+  <div>
+    <div class="tag-box" onclick="toggleDropdown('tag-gpu')">
+      GPU Optimization
+    </div>
+    <div id="tag-gpu" class="dropdown-list">
+      <p><a href="#gpu-partitioner">GPU Program Partitioner</a></p>
+    </div>
+  </div>
+
+  <!-- TAG 11: Safety -->
+  <div>
+    <div class="tag-box" onclick="toggleDropdown('tag-safety')">
+      Safety & Alignment
+    </div>
+    <div id="tag-safety" class="dropdown-list">
+      <p><a href="#metasafetyreasoner">MetaSafetyReasoner</a></p>
+      <p><a href="#secure-code-generation">Secure Code Generation</a></p>
+    </div>
+  </div>
+
+  <!-- TAG 12: Education -->
+  <div>
+    <div class="tag-box" onclick="toggleDropdown('tag-education')">
+      Education & Learning Tools
+    </div>
+    <div id="tag-education" class="dropdown-list">
+      <p><a href="#aiden">AIDEN</a></p>
+      <p><a href="#interactive-textbooks">Interactive Textbooks</a></p>
+      <p><a href="#scientific-impact">Scientific Impact Metrics</a></p>
+    </div>
+  </div>
+
+  <!-- TAG 13: NLI & Linguistics -->
+  <div>
+    <div class="tag-box" onclick="toggleDropdown('tag-nli')">
+      NLI & Linguistics
+    </div>
+    <div id="tag-nli" class="dropdown-list">
+      <p><a href="#xnli">Cross-Lingual NLI</a></p>
+      <p><a href="#theory-of-mind">LLM Faithfulness & ToM</a></p>
+    </div>
+  </div>
+
+  <!-- TAG 14: Scientific Impact -->
+  <div>
+    <div class="tag-box" onclick="toggleDropdown('tag-impact')">
+      Scientific Impact
+    </div>
+    <div id="tag-impact" class="dropdown-list">
+      <p><a href="#scientific-impact">Beyond H-index</a></p>
+    </div>
+  </div>
+
+  <!-- TAG 15: Recommendations -->
+  <div>
+    <div class="tag-box" onclick="toggleDropdown('tag-recsys')">
+      Recommendation Systems
+    </div>
+    <div id="tag-recsys" class="dropdown-list">
+      <p><a href="#orbit">ORBIT Benchmark</a></p>
+    </div>
+  </div>
+
 </div>
 
 <script>

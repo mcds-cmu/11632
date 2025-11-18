@@ -679,14 +679,10 @@ offering a scalable and more holistic method for assessing interdisciplinary sci
 <p><i>
 Tags: Citation Context Analysis; Scientific Impact Measurement; Metric Learning; Researcher Profiling; Human-Guided Ranking
 </i></p>
-</td>
-
-<td></td>
-<td></td>
+  </td>
 </tr>
-      <!-- </tbody>
-    </table>
+    </tbody>
+   </table>
   </div>
-</div> -->
-
+ </div>
 </html>

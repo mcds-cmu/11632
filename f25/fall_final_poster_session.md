@@ -42,74 +42,209 @@ nav_order: 7
   Capstone Project Showcase
 </div>
 
-<!-- TAG LEGEND
-<div style="text-align:center; padding: 20px; font-size: 20px; font-weight: bold;">
-  Project Tags Legend
+<!-- TAG LEGEND -->
+<div style="text-align:center; padding: 20px; font-size: 24px; font-weight: bold;">
+  Project Catergories (Click to Expand)
 </div>
 
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; padding-bottom:30px;">
+<style>
+  .tag-box {
+    padding: 6px 14px;
+    border: 1px solid #7a003c;
+    border-radius: 6px;
+    font-size: 14px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 6px;
+    background: #faf6f8;
+  }
+  .dropdown-list {
+    display: none;
+    margin-top: 6px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background: #fff;
+    border-radius: 6px;
+    text-align: left;
+  }
+  .dropdown-list p {
+    margin: 4px 0;
+    font-size: 14px;
+  }
+  .dropdown-list a {
+    text-decoration: none;
+    color: #7a003c;
+  }
+</style>
 
-  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
-    Large Language Models (LLMs)
-  </span>
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px;">
 
-  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
-    Retrieval-Augmented Generation (RAG)
-  </span>
+  <!-- 1. LLM Systems & Agents -->
+  <div>
+    <div class="tag-box" onclick="toggleDropdown('tag-llm-systems')">
+      LLM Systems & Agents
+    </div>
+    <div id="tag-llm-systems" class="dropdown-list">
+      <p><a href="#aiden">AIDEN: AI-based Interactive TA for Educational Needs</a></p>
+      <p><a href="#rag-modeling">RAG Modeling and Agent Evaluation</a></p>
+      <p><a href="#agent4molecule">Agent4Molecule: LLM Agent for Discovery</a></p>
+      <p><a href="#cyberlife-ai">CyberLife AI</a></p>
+      <p><a href="#code-migration">Multi-Agent LLM Systems for Code Migration</a></p>
+      <p><a href="#nl2sql">NL2SQL: Natural Language to SQL</a></p>
+      <p><a href="#waybuddy">WayBuddy</a></p>
+      <p><a href="#vln">Interactive Vision-Language Navigation</a></p>
+      <p><a href="#arc-agi-2">Abstraction and Reasoning Challenge for LLMs</a></p>
+      <p><a href="#sotopia-tom">Sotopia-ToM: Evaluating and Advancing Information Management in Multi-Agent Interaction with Theory of Mind (ToM)</a></p>
+      <p><a href="#secure-code-generation">LLM Secure Code Generation via Reasoning and Reinforcement Learning</a></p>
+      <p><a href="#theory-of-mind">Theory of Mind for Explainable AI</a></p>
+    </div>
+  </div>
 
-  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
-    Multi-Agent Systems
-  </span>
+  <!-- 2. Retrieval & Knowledge-Grounded Generation (RAG) -->
+  <div>
+    <div class="tag-box" onclick="toggleDropdown('tag-rag')">
+      Retrieval & Knowledge-Grounded Generation
+    </div>
+    <div id="tag-rag" class="dropdown-list">
+      <p><a href="#aiden">AIDEN: AI-based Interactive TA for Educational Needs</a></p>
+      <p><a href="#rag-modeling">RAG Modeling and Agent Evaluation</a></p>
+      <p><a href="#less-llm-more-documents">Less LLM, More Documents: Searching for Improved RAG</a></p>
+      <p><a href="#cyberlife-ai">CyberLife AI</a></p>
+      <p><a href="#interactive-textbooks">Transforming Textbooks into Nonlinear Interactive Study Guides</a></p>
+      <p><a href="#fairmuni-2">FAIRMUNI-2</a></p>
+      <p><a href="#orbit">ORBIT - Open Recommendation Benchmark for Reproducible Research with Hidden Tests</a></p>
+    </div>
+  </div>
 
-  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
-    Benchmarking & Evaluation
-  </span>
+  <!-- 3. Benchmarks, Datasets & Evaluation Frameworks -->
+  <div>
+    <div class="tag-box" onclick="toggleDropdown('tag-benchmarks')">
+      Benchmarks, Datasets & Evaluation
+    </div>
+    <div id="tag-benchmarks" class="dropdown-list">
+      <p><a href="#orbit">ORBIT - Open Recommendation Benchmark for Reproducible Research with Hidden Tests</a></p>
+      <p><a href="#rag-modeling">RAG Modeling and Agent Evaluation</a></p>
+      <p><a href="#llm-data-attribution">LLM Data Attribution Benchmark</a></p>
+      <p><a href="#arc-agi-2">Abstraction and Reasoning Challenge for LLMs</a></p>
+      <p><a href="#sotopia-tom">Sotopia-ToM: Evaluating and Advancing Information Management in Multi-Agent Interaction with Theory of Mind (ToM)</a></p>
+      <p><a href="#xnli">Cross Lingual Natural Language Inference</a></p>
+      <p><a href="#scientific-impact">Beyond H-Index: New Metrics of Scientific Impact</a></p>
+      <p><a href="#theory-of-mind">Theory of Mind for Explainable AI</a></p>
+      <p><a href="#metasafetyreasoner">MetaSafetyReasoner</a></p>
+      <p><a href="#less-llm-more-documents">Less LLM, More Documents: Searching for Improved RAG</a></p>
+    </div>
+  </div>
 
-  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
-    Machine Learning for Science
-  </span>
+  <!-- 4. Code, Programming & Software Engineering -->
+  <div>
+    <div class="tag-box" onclick="toggleDropdown('tag-code-swe')">
+      Code, Programming & Software Engineering
+    </div>
+    <div id="tag-code-swe" class="dropdown-list">
+      <p><a href="#pg-hint-engine">Automated SQL Hinting for Postgres Query Optimization</a></p>
+      <p><a href="#nl2sql">NL2SQL: Natural Language to SQL</a></p>
+      <p><a href="#gpu-partitioner">GPU Program Partitioning for Superoptimization</a></p>
+      <p><a href="#code-migration">Multi-Agent LLM Systems for Code Migration</a></p>
+      <p><a href="#secure-code-generation">LLM Secure Code Generation via Reasoning and Reinforcement Learning</a></p>
+    </div>
+  </div>
 
-  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
-    Computer Vision
-  </span>
+  <!-- 5. Systems, Infrastructure & Optimization -->
+  <div>
+    <div class="tag-box" onclick="toggleDropdown('tag-systems')">
+      Systems, Infrastructure & Optimization
+    </div>
+    <div id="tag-systems" class="dropdown-list">
+      <p><a href="#moirai">Optimizing Hybrid Cloud Partition and Placement of Data and Compute</a></p>
+      <p><a href="#gpu-partitioner">GPU Program Partitioning for Superoptimization</a></p>
+      <p><a href="#pg-hint-engine">Automated SQL Hinting for Postgres Query Optimization</a></p>
+      <p><a href="#rag-modeling">RAG Modeling and Agent Evaluation</a></p>
+      <p><a href="#cyberlife-ai">CyberLife AI</a></p>
+      <p><a href="#waybuddy">WayBuddy</a></p>
+      <p><a href="#code-migration">Multi-Agent LLM Systems for Code Migration</a></p>
+      <p><a href="#arc-agi-2">Abstraction and Reasoning Challenge for LLMs</a></p>
+      <p><a href="#orbit">ORBIT - Open Recommendation Benchmark for Reproducible Research with Hidden Tests</a></p>
+    </div>
+  </div>
 
-  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
-    Natural Language Processing (NLP)
-  </span>
+  <!-- 6. Vision, Robotics & Embodied AI -->
+  <div>
+    <div class="tag-box" onclick="toggleDropdown('tag-vision')">
+      Vision, Robotics & Embodied AI
+    </div>
+    <div id="tag-vision" class="dropdown-list">
+      <p><a href="#waybuddy">WayBuddy</a></p>
+      <p><a href="#hab-detection">Harmful Algae Bloom Detection</a></p>
+      <p><a href="#pfib-porosity">Reproducible Determination of 3D Model and Porosity of Fuel Cell Cathode Layers from pFIB-SEM Data</a></p>
+      <p><a href="#vln">Interactive Vision-Language Navigation</a></p>
+      <p><a href="#arc-agi-2">Abstraction and Reasoning Challenge for LLMs</a></p>
+    </div>
+  </div>
 
-  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
-    Autonomous Agents
-  </span>
+  <!-- 7. Applied AI for Science, Engineering & Materials -->
+  <div>
+    <div class="tag-box" onclick="toggleDropdown('tag-ai-science')">
+      Applied AI for Science, Engineering & Materials
+    </div>
+    <div id="tag-ai-science" class="dropdown-list">
+      <p><a href="#hab-detection">Harmful Algae Bloom Detection</a></p>
+      <p><a href="#agent4molecule">Agent4Molecule: LLM Agent for Discovery</a></p>
+      <p><a href="#pfib-porosity">Reproducible Determination of 3D Model and Porosity of Fuel Cell Cathode Layers from pFIB-SEM Data</a></p>
+    </div>
+  </div>
 
-  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
-    Optimization & Systems
-  </span>
+  <!-- 8. Applied AI for Society, Finance & Education -->
+  <div>
+    <div class="tag-box" onclick="toggleDropdown('tag-applied-society')">
+      Applied AI for Society, Finance & Education
+    </div>
+    <div id="tag-applied-society" class="dropdown-list">
+      <p><a href="#aiden">AIDEN: AI-based Interactive TA for Educational Needs</a></p>
+      <p><a href="#interactive-textbooks">Transforming Textbooks into Nonlinear Interactive Study Guides</a></p>
+      <p><a href="#fairmuni-2">FAIRMUNI-2</a></p>
+      <p><a href="#scientific-impact">Beyond H-Index: New Metrics of Scientific Impact</a></p>
+      <p><a href="#hab-detection">Harmful Algae Bloom Detection</a></p>
+      <p><a href="#cyberlife-ai">CyberLife AI</a></p>
+    </div>
+  </div>
 
-  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
-    AI for Education
-  </span>
+  <!-- 9. Data, Privacy, Attribution & Curation -->
+  <div>
+    <div class="tag-box" onclick="toggleDropdown('tag-data-privacy')">
+      Data, Privacy, Attribution & Curation
+    </div>
+    <div id="tag-data-privacy" class="dropdown-list">
+      <p><a href="#llm-data-attribution">LLM Data Attribution Benchmark</a></p>
+      <p><a href="#sotopia-tom">Sotopia-ToM: Evaluating and Advancing Information Management in Multi-Agent Interaction with Theory of Mind (ToM)</a></p>
+      <p><a href="#orbit">ORBIT - Open Recommendation Benchmark for Reproducible Research with Hidden Tests</a></p>
+      <p><a href="#xnli">Cross Lingual Natural Language Inference</a></p>
+      <p><a href="#scientific-impact">Beyond H-Index: New Metrics of Scientific Impact</a></p>
+      <p><a href="#rag-modeling">RAG Modeling and Agent Evaluation</a></p>
+    </div>
+  </div>
 
-  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
-    AI for Healthcare & Sustainability
-  </span>
+  <!-- 10. Safety, Alignment, Theory of Mind & Ethics -->
+  <div>
+    <div class="tag-box" onclick="toggleDropdown('tag-safety')">
+      Safety, Alignment & Theory of Mind
+    </div>
+    <div id="tag-safety" class="dropdown-list">
+      <p><a href="#theory-of-mind">Theory of Mind for Explainable AI</a></p>
+      <p><a href="#metasafetyreasoner">MetaSafetyReasoner</a></p>
+      <p><a href="#sotopia-tom">Sotopia-ToM: Evaluating and Advancing Information Management in Multi-Agent Interaction with Theory of Mind (ToM)</a></p>
+      <p><a href="#secure-code-generation">LLM Secure Code Generation via Reasoning and Reinforcement Learning</a></p>
+      <p><a href="#llm-data-attribution">LLM Data Attribution Benchmark</a></p>
+    </div>
+  </div>
 
-  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
-    Data Engineering & Pipelines
-  </span>
+</div>
 
-  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
-    Human-AI Interaction (HAI)
-  </span>
-
-  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
-    Security & Safety in AI
-  </span>
-
-  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
-    Scientific Computing & Simulation
-  </span>
-
-</div> -->
+<script>
+function toggleDropdown(id) {
+  const box = document.getElementById(id);
+  box.style.display = (box.style.display === "block") ? "none" : "block";
+}
+</script>
 
  <div>
   <div>
@@ -119,7 +254,7 @@ nav_order: 7
 <!-- CARD 1–3 -->
 <tr style="text-align: center;">
 <td>
-<h2>AIDEN: AI-based Interactive TA for Educational Needs</h2>
+<h2 id="aiden">AIDEN: AI-based Interactive TA for Educational Needs</h2>
 <img src="https://cmu.box.com/shared/static/7sv1r6qfhp96hb6s9dsey08ovcihpomk.png"/>
 <p>Emily Guo, Helen Wang, Ken Ye</p>
 <p>
@@ -145,7 +280,7 @@ generation pipeline.
 </td>
 
 <td>
-<h2>ORBIT - Open Recommendation Benchmark for Reproducible Research with Hidden Tests</h2>
+<h2 id="orbit">ORBIT - Open Recommendation Benchmark for Reproducible Research with Hidden Tests</h2>
 <img src="https://cmu.box.com/shared/static/pgmw0imohqd3ebwsnaqnlpzjmdw2ji77.png"/>
 <p>
 Vishan Vishesh Oberoi, Bolin Wu, Mahima Jagadeesh Patel, Kangrui Mao, Chuning Shi
@@ -175,7 +310,7 @@ and codebase are available at https://www.open-reco-bench.ai.
 </td>
 
 <td>
-<h2>Theory of Mind for Explainable AI</h2>
+<h2 id="theory-of-mind">Theory of Mind for Explainable AI</h2>
 <img src="https://cmu.box.com/shared/static/gibbze8e04wpcgmgoya4y08s0edftt41.png"/>
 <p>Aditi Saini, Akshita Gupta, Krishnaprasad Vijayshankar</p>
 <p>
@@ -198,7 +333,7 @@ explainability benchmark.
 <!-- CARD 4–6 -->
 <tr style="text-align: center;">
 <td>
-<h2>RAG Modeling and Agent Evaluation</h2>
+<h2 id="rag-modeling">RAG Modeling and Agent Evaluation</h2>
 <img src="https://cmu.box.com/shared/static/kx6u8in8iewgpl8ks5x31c5wrss4x6f8.png"/>
 <p>Abhijay Sai Paladugu, Andy Tang, Pranav Setlur</p>
 <p>
@@ -217,7 +352,7 @@ evaluation paradigm for next-generation autonomous agents.
 </td>
 
 <td>
-<h2>Harmful Algae Bloom Detection</h2>
+<h2 id="hab-detection">Harmful Algae Bloom Detection</h2>
 <img src="https://cmu.box.com/shared/static/q1o6vnlyoo6lfi33ibrinxbrbvl4yjt2.png"/>
 <p>Yi Qun Heng, Madison Teague, Sarvesh Navare</p>
 <p>
@@ -237,7 +372,7 @@ livelihoods.
 </td>
 
 <td>
-<h2>Transforming Textbooks into Nonlinear Interactive Study Guides</h2>
+<h2 id="interactive-textbooks">Transforming Textbooks into Nonlinear Interactive Study Guides</h2>
 <img src="https://cmu.box.com/shared/static/fo739tu4e6af8znui4biluil3srfdevn.png"/>
 <p>
 Mahita Kandala, Aijia Lei, Jacob Scriffiny
@@ -259,7 +394,7 @@ inferred at scale and used to support more connected and exploratory modes of le
 <!-- CARD 7–9 -->
 <tr style="text-align: center;">
 <td>
-<h2>Agent4Molecule: LLM Agent for Discovery</h2>
+<h2 id="agent4molecule">Agent4Molecule: LLM Agent for Discovery</h2>
 <img src="https://cmu.box.com/shared/static/cvyx4vg59d1ktl287k2zaxchnyopn2j7.png"/>
 <p>
 Dhruv Garg, Emily Shen, Kaavya Subramanian
@@ -279,7 +414,7 @@ and EnzyGen, and successfully reproduced key results reported in the original wo
 </td>
 
 <td>
-<h2>LLM Data Attribution Benchmark</h2>
+<h2 id="llm-data-attribution">LLM Data Attribution Benchmark</h2>
 <img src="https://cmu.box.com/shared/static/piufw8hpknxzy3lbwv6epo4fr5o0or5c.png"/>
 <p>
 Hanzhang Zhao, Niket Jain, Ishita Dasgupta
@@ -303,7 +438,7 @@ perspective on building attribution-aware data curation pipelines for modern LLM
 </td>
 
 <td>
-<h2>Automated SQL Hinting for Postgres Query Optimization</h2>
+<h2 id="pg-hint-engine">Automated SQL Hinting for Postgres Query Optimization</h2>
 <img src="https://cmu.box.com/shared/static/k2b8ammcfogxr8p2qhr4eod5gxc9yt2w.png"/>
 <p>
 Wenda Fu, Xueqi Li, Bobby Norwood
@@ -320,7 +455,7 @@ through query plan management, leading to a fourteen percent speed up in the Joi
 <!-- CARD 10–12 -->
 <tr style="text-align: center;">
 <td>
-<h2>Optimizing Hybrid Cloud Partition and Placement of Data and Compute</h2>
+<h2 id="moirai">Optimizing Hybrid Cloud Partition and Placement of Data and Compute</h2>
 <img src="https://cmu.box.com/shared/static/0a0sshlk6bco4f9a8pksw9xxbig1etqk.png"/>
 <p>
 Adarsh Nandanwar, Ananya Angadi, Chenghui Yu, Junwei Chen
@@ -339,7 +474,7 @@ analytics infrastructure.
 </td>
 
 <td>
-<h2>NL2SQL: Natural Language to SQL</h2>
+<h2 id="nl2sql">NL2SQL: Natural Language to SQL</h2>
 <img src="https://cmu.box.com/shared/static/5916u52g3omvkj2pwddkph1qcprdzv27.png"/>
 <p>
 Venu Arvind Arangarajan, Tim Han, Ziming Wang
@@ -358,7 +493,7 @@ our approach improves robustness, offering a scalable solution for complex datab
 </td>
 
 <td>
-<h2>WayBuddy</h2>
+<h2 id="waybuddy">WayBuddy</h2>
 <img src="https://cmu.box.com/shared/static/dioi210h84kbawqet66kvxrjmmrmmvbp.jpg"/>
 <p>
 Rithvik Senthil, Gunavardhan Akiti, Naveen Shenoy, Rupsa Dhar
@@ -382,7 +517,7 @@ models through selective, large-model supervision in resource-constrained enviro
 <!-- CARD 13–15 -->
 <tr style="text-align: center;">
 <td>
-<h2>Less LLM, More Documents: Searching for Improved RAG</h2>
+<h2 id="less-llm-more-documents">Less LLM, More Documents: Searching for Improved RAG</h2>
 <img src="https://cmu.box.com/shared/static/qy8rbyzlxtmslr5vq2zje0ta3eg5828o.png"/>
 <p>
 Jingjie Ning, Yibo Kong, Yunfan Long
@@ -402,7 +537,7 @@ larger corpora offers an effective path to stronger RAG, often comparable to enl
 </td>
 
 <td>
-<h2>FAIRMUNI-2</h2>
+<h2 id="fairmuni-2">FAIRMUNI-2</h2>
 <img src="https://cmu.box.com/shared/static/o4b78h1yztef0bngsimdzafv8pmrzxfr.png"/>
 <p>
 Lucy Sun, Nachaun Zhao, Bolin Zhang, Sayak Banerjee
@@ -422,7 +557,7 @@ and also through an interactive dashboard.
 </td>
 
 <td>
-<h2>GPU Program Partitioning for Superoptimization</h2>
+<h2 id="gpu-partitioner">GPU Program Partitioning for Superoptimization</h2>
 <img src="https://cmu.box.com/shared/static/6es4h8tanzastlr4tioofm75unx71ey0.png"/>
 <p>
 Man Kit Ao, Jiaying Li, Ayush Kumar
@@ -445,20 +580,20 @@ incompatible partitions. Afterwards, we perform cost-model-informed dynamic prog
 partition these programs and apply Mirage superoptimization. Our goal is to enable users to run Mirage on
 their own PyTorch programs to improve computational efficiency.
 </p>
-<p><i>Tags: GPU, CUDA kernels, program partitioning, tensor parallelism, model parallelism, graphs, cost modelling</i></p>
+<p><i>Tags: GPU, CUDA Kernels; Program Partitioning; Tensor Parallelism; Model parallelism; Graphs; Cost Modelling</i></p>
 </td>
 </tr>
 
 <!-- CARD 16–18 -->
 <tr style="text-align: center;">
 <td>
-<h2>CyberLife AI</h2>
+<h2 id="cyberlife-ai">CyberLife AI</h2>
 <img src="https://cmu.box.com/shared/static/kz7rpp71a7pvkxm4fhjuefavxwwh9art.png"/>
 <p>
 Webber Wu, Eagle Lo, Brad Chen
 </p>
 <p>
-This report presents CyberLife AI, a no-code platform for creating personalized, topic-driven conversational
+This work presents CyberLife AI, a no-code platform for creating personalized, topic-driven conversational
 agents with persistent memory and knowledge grounding. We address limitations in existing platforms
 through a memory-augmented dual-retrieval RAG pipeline combining conversation history recall with
 document-based knowledge retrieval. The system enables non-technical users to create agents by uploading
@@ -471,7 +606,7 @@ generation.
 </td>
 
 <td>
-<h2>Reproducible determination of 3D model and porosity of fuel cell cathode layers from pFIB-SEM data</h2>
+<h2 id="pfib-porosity">Reproducible Determination of 3D Model and Porosity of Fuel Cell Cathode Layers from pFIB-SEM Data</h2>
 <img src="https://cmu.box.com/shared/static/94ina5hiohn7val7atkypze1tnxgxio1.png"/>
 <p>
 Nicole Wang, Aryan Mehta, Enora Petry
@@ -490,7 +625,7 @@ synthetic materials.
 </td>
 
 <td>
-<h2>MetaSafetyReasoner</h2>
+<h2 id="metasafetyreasoner">MetaSafetyReasoner</h2>
 <img src="https://cmu.box.com/shared/static/binvevchy6ltt7rjuftd6a4hg1rwzhcm.png"/>
 <p>
 Shrey Jain, Nishoak Kosaraju, Sathwik Acharya, James Ding
@@ -515,7 +650,7 @@ classification benchmarks and SafeRBench.
 <!-- CARD 19–21 -->
 <tr style="text-align: center;">
 <td>
-<h2>Multi-Agent LLM Systems for Code Migration</h2>
+<h2 id="code-migration">Multi-Agent LLM Systems for Code Migration</h2>
 <img src="https://cmu.box.com/shared/static/m3f2a1zui9wp8256grtw3p6ib7mpx2kq.png"/>
 <p>
 Shanru Lin, Xinyu Li, Yogesh Adhi Narayan
@@ -537,7 +672,7 @@ tool-augmented LLM workflows for realistic Python library migration.
 </td>
 
 <td>
-<h2>LLM Secure Code Generation via Reasoning and Reinforcement Learning</h2>
+<h2 id="secure-code-generation">LLM Secure Code Generation via Reasoning and Reinforcement Learning</h2>
 <img src="https://cmu.box.com/shared/static/71lki76uhkfrl4jkmr4usjqcf62wy1fl.png"/>
 <p>
 Yanlin Fei, Arihant Sheth
@@ -561,7 +696,7 @@ security without sacrificing code quality.
 </td>
 
 <td>
-<h2>Interactive Vision-Language Navigation</h2>
+<h2 id="vln">Interactive Vision-Language Navigation</h2>
 <img src="https://cmu.box.com/shared/static/1ka7mofxw1dqo06l860siun37d7ppri3.png"/>
 <p>
 Wei Bin Au Yeong, Calvin Qin, Anubhav Sharma, Yaqi Wang
@@ -585,7 +720,7 @@ promise of conversational VLN for more adaptable and user-friendly human-robot i
 <!-- CARD 22–24 -->
 <tr style="text-align: center;">
 <td>
-<h2>Abstraction and Reasoning Challenge for LLMs</h2>
+<h2 id="arc-agi-2">Abstraction and Reasoning Challenge for LLMs</h2>
 <img src="https://cmu.box.com/shared/static/jx4264csfl8mje66i18q6ur3ihp29ntx.png"/>
 <p>
 Akhil Dua, Jake Bentley, Naman Tuli
@@ -607,7 +742,7 @@ out of more than 1400 teams.
 </td>
 
 <td>
-<h2>Sotopia-ToM: Evaluating and Advancing Information Management in Multi-Agent Interaction with Theory of Mind (ToM)</h2>
+<h2 id="sotopia-tom">Sotopia-ToM: Evaluating and Advancing Information Management in Multi-Agent Interaction with Theory of Mind (ToM)</h2>
 <img src="https://cmu.box.com/shared/static/mf3yasgx0eeqciwt8ee3l6mfy2ql2rs7.png"/>
 <p>
 Ruichen Wang, Shihua Zeng, Yashwanth Yerabudala Surendra
@@ -626,7 +761,7 @@ to infer and predict other agents’ knowledge states.
 </td>
 
 <td>
-<h2>Cross Lingual Natural Language Inference</h2>
+<h2 id="xnli">Cross Lingual Natural Language Inference</h2>
 <img src="https://cmu.box.com/shared/static/jol2vartp6d8mejxgjkgdltmd97mb5mk.png"/>
 <p>
 Jared Cochrane, Clint Zhu, Declan Tan
@@ -653,7 +788,7 @@ gold references.
 <!-- CARD 25 (final row, 1 card only) -->
 <tr style="text-align: center;">
 <td>
-<h2>Beyond H-Index: New Metrics of Scientific Impact</h2>
+<h2 id="scientific-impact">Beyond H-Index: New Metrics of Scientific Impact</h2>
 <img src="https://cmu.box.com/shared/static/d3yeyr7ijuyqvxx2bidow64y8rn313po.png"/>
 <p>
 Divyan Goyal, Wang Xiang, Wenhao Xu

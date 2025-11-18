@@ -42,90 +42,74 @@ nav_order: 7
   Capstone Project Showcase
 </div>
 
-<!-- TAG LEGEND WITH CLICKABLE DROPDOWNS -->
-<div style="text-align:center; padding: 20px; font-size: 24px; font-weight: bold;">
-  Project Tags (Click to Expand)
+<!-- TAG LEGEND
+<div style="text-align:center; padding: 20px; font-size: 20px; font-weight: bold;">
+  Project Tags Legend
 </div>
 
-<style>
-  .tag-box {
-    padding:6px 14px;
-    border:1px solid #7a003c;
-    border-radius:6px;
-    font-size:14px;
-    cursor:pointer;
-    display:inline-block;
-    margin:6px;
-    background:#faf6f8;
-  }
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; padding-bottom:30px;">
 
-  .dropdown-list {
-    display:none;
-    margin-top:6px;
-    padding:10px;
-    border:1px solid #ddd;
-    background:#fff;
-    border-radius:6px;
-    text-align:left;
-  }
+  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
+    Large Language Models (LLMs)
+  </span>
 
-  .dropdown-list p {
-    margin:4px 0;
-    font-size:14px;
-  }
-</style>
+  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
+    Retrieval-Augmented Generation (RAG)
+  </span>
 
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px;">
+  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
+    Multi-Agent Systems
+  </span>
 
-  <!-- TAG 1 -->
-  <div>
-    <div class="tag-box" onclick="toggleDropdown('tag-llm')">
-      Large Language Models (LLMs)
-    </div>
-    <div id="tag-llm" class="dropdown-list">
-      <p>AIDEN</p>
-      <p>Agent4Molecule</p>
-      <p>DATE-LM</p>
-      <p>Secure Code Generation</p>
-      <p>ARC-AGI-2</p>
-      <!-- add more -->
-    </div>
-  </div>
+  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
+    Benchmarking & Evaluation
+  </span>
 
-  <!-- TAG 2 -->
-  <div>
-    <div class="tag-box" onclick="toggleDropdown('tag-rag')">
-      Retrieval-Augmented Generation (RAG)
-    </div>
-    <div id="tag-rag" class="dropdown-list">
-      <p>AIDEN</p>
-      <p>RAG Arena</p>
-      <p>CyberLife AI</p>
-      <p>Less LLM, More Documents</p>
-    </div>
-  </div>
+  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
+    Machine Learning for Science
+  </span>
 
-  <!-- TAG 3 -->
-  <div>
-    <div class="tag-box" onclick="toggleDropdown('tag-mas')">
-      Multi-Agent Systems
-    </div>
-    <div id="tag-mas" class="dropdown-list">
-      <p>NL2SQL Multi-Agent</p>
-      <p>Sotopia-ToM</p>
-      <p>Code Migration Multi-Agent</p>
-    </div>
-  </div>
+  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
+    Computer Vision
+  </span>
 
-  <!-- KEEP ADDING TAGS LIKE THIS -->
-</div>
+  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
+    Natural Language Processing (NLP)
+  </span>
 
-<script>
-function toggleDropdown(id) {
-  const box = document.getElementById(id);
-  box.style.display = (box.style.display === "block") ? "none" : "block";
-}
-</script>
+  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
+    Autonomous Agents
+  </span>
+
+  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
+    Optimization & Systems
+  </span>
+
+  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
+    AI for Education
+  </span>
+
+  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
+    AI for Healthcare & Sustainability
+  </span>
+
+  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
+    Data Engineering & Pipelines
+  </span>
+
+  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
+    Human-AI Interaction (HAI)
+  </span>
+
+  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
+    Security & Safety in AI
+  </span>
+
+  <span style="padding:6px 14px; border:1px solid #7a003c; border-radius:6px; font-size:14px;">
+    Scientific Computing & Simulation
+  </span>
+
+</div> -->
 
  <div>
   <div>
@@ -700,11 +684,9 @@ Tags: Citation Context Analysis; Scientific Impact Measurement; Metric Learning;
 <td></td>
 <td></td>
 </tr>
-
-   </table>
+      <!-- </tbody>
+    </table>
   </div>
- </div>
-
-
+</div> -->
 
 </html>

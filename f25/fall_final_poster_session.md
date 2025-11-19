@@ -44,7 +44,7 @@ nav_order: 7
 
 <!-- TAG LEGEND -->
 <div style="text-align:center; padding: 20px; font-size: 24px; font-weight: bold;">
-  Project Catergories (Click to Expand)
+  Project Categories (Click to Expand)
 </div>
 
 <style>

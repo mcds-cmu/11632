@@ -5,6 +5,6 @@ email: jihyunki@andrew.cmu.edu
 list_order: 6
 photo: staff/jihyun.jpg
 website: https://www.linkedin.com/in/jihyun830/
-staff_for: [f25]
+staff_for: [f25, f26]
 ---
 COE - MSECE
